@@ -9,3 +9,12 @@ Igor Sch&ouml;enardie Viegas, nascido no dia 26 de feveiro de 2003 na cidade de 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
 [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+
+#### Projetos (privados)
+> Aplica&ccedil;&otilde;es _Desktop_ para diversas funcionalidades
+
+> Integra&ccedil;&otilde;es entre sistemas
+
+> Sistema Web
+
+> Websites
